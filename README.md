@@ -1,5 +1,12 @@
+# Perplexity GUI Clone
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## ⚠️ Important Note
+
+**This project is GUI/Frontend only - No backend has been connected.**
+
+This is purely a user interface clone demonstrating the visual design and layout. All functionality is frontend-only for demonstration purposes.
 
 ## Getting Started
 
@@ -19,7 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
